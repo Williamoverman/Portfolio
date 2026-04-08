@@ -17,7 +17,7 @@
 
         <Card class="col-span-6 md:col-span-3 bg-(--orange)">
             <span class="text-(--orange-light) text-xs tracking-wide">PROJECTEN</span>
-            <h1 class="pt-4 font-display text-5xl font-extrabold text-white">4+</h1>
+            <h1 class="pt-4 font-display text-5xl font-extrabold text-white">14+</h1>
             <span class="text-(--orange-light) text-xs tracking-wide">publieke repositories</span>
             <span class="absolute -bottom-4 right-1 font-display text-[100px] font-extrabold leading-none pointer-events-none select-none text-white/10">4</span>
         </Card>

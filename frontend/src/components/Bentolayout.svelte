@@ -3,21 +3,23 @@
     import Skills from './Skills.svelte';
     import Experience from './Experience.svelte';
     import Hobbies from './Hobbies.svelte';
+    import Contact from './Contact.svelte';
     import Label from './Label.svelte';
 </script>
 
 <main class="max-w-[1200px] mx-auto px-6 py-6">
-    <Label>// introductie</Label>
+    <Label id="over">// introductie</Label>
     <Introduction />
 
-    <Label>// skills & tech stack</Label>
+    <Label id="skills">// skills & tech stack</Label>
     <Skills />
 
-    <Label>// werkervaring</Label>
+    <Label id="experience">// werkervaring</Label>
     <Experience />
 
-    <Label>// hobbies</Label>
+    <Label id="hobbies">// hobbies</Label>
     <Hobbies />
 
-    <Label>// contact</Label>
+    <Label id="contact">// contact</Label>
+    <Contact />  
 </main>

@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte'
-  import Chip from './Chip.svelte'
+  import Chip from '../Chip.svelte'
 
   let canvas: HTMLCanvasElement
 
